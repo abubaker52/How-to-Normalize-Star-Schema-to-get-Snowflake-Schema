@@ -67,7 +67,7 @@ To Snowflake Schema:
 
 To assist you in the process, we have prepared a series of instructional videos. These videos provide a visual guide to each step outlined above.
 
-    🎥 Instructional Videos
+    🎥 https://drive.google.com/drive/folders/1NGNzCqNUTFF7BlhZ4pwUCbmrcwAf4hRL?usp=sharing
 
 🗂 Final Result
 
